@@ -2,7 +2,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
       
@@ -10,7 +10,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     
@@ -18,7 +18,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     
@@ -26,7 +26,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     
@@ -34,7 +34,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
       
@@ -42,7 +42,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
      
@@ -50,7 +50,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
      
@@ -58,7 +58,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     
@@ -66,7 +66,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
       // Add more fields as needed
@@ -74,7 +74,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     
@@ -82,7 +82,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     
@@ -90,7 +90,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     
@@ -98,7 +98,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     
@@ -106,7 +106,7 @@ const data = [
     {
       date1: 'Jan 12, 2024',
       date2: 'Jan 14, 2024',
-      name: 'Naresh Kumhar',
+      name: 'Muhammad Asad',
       phone: '+1 234 566 7890',
       description: 'Lorem ipsum dolor sit amet',
     },
